@@ -1,33 +1,50 @@
-# analise-vendas-powerbi
-Primeiro Dashboard Análise  de Vendas no Power BI
+# 📊 Análise de Vendas - Power BI
 
-📊 Análise de Vendas 
+Primeiro projeto de dashboard desenvolvido no Power BI com foco em análise exploratória e indicadores de desempenho.
 
-🎯 Objetivo
+---
 
-Faturamento Total
+## 🎯 Objetivo
 
-Produto mais vendido
+Desenvolver um dashboard interativo para analisar:
 
-Marca mais vendida
+- Faturamento Total
+- Produto mais vendido
+- Marca mais vendida
+- Quantidade vendida
+- Faturamento mensal e anual
+- Desempenho de vendas por continente
 
-Quantidade vendida e faturamento mensal e anual
 
-Analisar o desempenho de vendas por continente no ano
+---
 
-🛠️ Ferramentas
+## 🛠️ Ferramentas Utilizadas
 
-Power BI
+- Power BI
+- Modelagem de Dados
+- Tabela Calendário
+- GitHub para versionamento
 
-DAX
+---
 
-Modelagem de Dados
+## 📈 Principais Insights
 
-📈 Principais Insights
+- A América do Norte apresentou o maior faturamento no período analisado.
+- A marca Contoso foi a mais bem aceita pelos clientes.
+- Observa-se crescimento consistente entre os anos analisados.
+- A distribuição de vendas varia significativamente entre continentes.
 
-América do Norte foi o continente com maior faturamento.
+---
 
-Produtos da marca Contoso foi melhor recebida pelos clientes.
+## 📷 Dashboard
 
-📷 Dashboard
-<img width="1920" height="1080" alt="dashboard" src="https://github.com/user-attachments/assets/fbff0e69-09b1-4a65-a5b1-06ac3d303baf" />
+*<img width="1920" height="1080" alt="dashboard" src="https://github.com/user-attachments/assets/fbff0e69-09b1-4a65-a5b1-06ac3d303baf" />*
+
+---
+
+## 🚀 Próximos Passos
+
+- Implementar análises mais avançadas de crescimento
+- Melhorar storytelling executivo
+- Evoluir para dashboards com múltiplas páginas
+- DAX (Data Analysis Expressions)
